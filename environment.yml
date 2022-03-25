@@ -1,3 +1,8 @@
+name: TDA-python
+channels:
+  - conda-forge
+  - defaults
+ 
  dependencies:
  -numpy=1.21.4
  -pandas=1.1.3
